@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Tienda.Distribucion.Domain.Persistence;
+using Tienda.Soporte.Domain.Persistence;
 
-namespace Tienda.Distribucion.Infraestructura.Persistence
+namespace Tienda.Soporte.Infraestructura.Persistence
 {
     public class UnitOfWork : IUnitOfWork
     {

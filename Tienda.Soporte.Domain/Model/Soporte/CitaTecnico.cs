@@ -18,5 +18,7 @@ namespace Tienda.Soporte.Domain.Model.Soporte
             Cita = cita;
             Tecnico = tecnico;
         }
+
+        public CitaTecnico () { }
     }
 }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using Tienda.Distribucion.Infraestructura.Persistence;
+using Tienda.Soporte.Infraestructura.Persistence;
 using Tienda.Soporte.Domain.Persistence.Repository;
 
 namespace Tienda.Soporte.Infraestructura.Persistence.Repository

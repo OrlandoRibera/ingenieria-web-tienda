@@ -42,7 +42,7 @@ namespace Tienda.Soporte.Web.Controllers
                 await _clienteRepository.Insert(obj);
                 await _unitOfWork.CommitAsync();
 
-                return Ok();
+                return Ok(new { obj });
             }
             catch (Exception)
             {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Tienda.Distribucion.Domain.Persistence;
+using Tienda.Soporte.Domain.Persistence;
 using Tienda.Soporte.Domain.Model.Soporte;
 using Tienda.Soporte.Domain.Persistence.Repository;
 using Tienda.Soporte.Web.ViewModel;
@@ -43,7 +43,7 @@ namespace Tienda.Soporte.Web.Controllers
             return Ok(new { citas });
         }
 
-        [HttpGet("{id)")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> Get(Guid id)
         {
             Cita cita = await _citaRepository.GetByID(id);

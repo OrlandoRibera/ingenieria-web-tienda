@@ -35,7 +35,7 @@ namespace Tienda.WebApp
             services.AddDbContext<ApplicationDbContext>(options =>
                    options.UseSqlServer(
                    Configuration.GetConnectionString("DBConnectionString"),
-                   b => b.MigrationsAssembly("Tienda.WebApp")));
+                   b => b.MigrationsAssembly("Tienda.Distribucion.Web")));
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IOrdenEntregaRepository, OrdenEntregaRepository>();

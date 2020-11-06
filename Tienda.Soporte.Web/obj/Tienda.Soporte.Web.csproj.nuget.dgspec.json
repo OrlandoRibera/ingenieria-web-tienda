@@ -247,9 +247,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Orlando\\Documents\\Desktop\\Universidad\\8vo Semestre\\Ingeniería Web\\Primer parcial\\Tienda\\Tienda.Soporte.Domain\\Tienda.Soporte.Domain.csproj": {
-                "projectPath": "C:\\Users\\Orlando\\Documents\\Desktop\\Universidad\\8vo Semestre\\Ingeniería Web\\Primer parcial\\Tienda\\Tienda.Soporte.Domain\\Tienda.Soporte.Domain.csproj"
-              },
               "C:\\Users\\Orlando\\Documents\\Desktop\\Universidad\\8vo Semestre\\Ingeniería Web\\Primer parcial\\Tienda\\Tienda.Soporte.Infraestructura\\Tienda.Soporte.Infraestructura.csproj": {
                 "projectPath": "C:\\Users\\Orlando\\Documents\\Desktop\\Universidad\\8vo Semestre\\Ingeniería Web\\Primer parcial\\Tienda\\Tienda.Soporte.Infraestructura\\Tienda.Soporte.Infraestructura.csproj"
               }

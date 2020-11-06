@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tienda.Distribucion.Infraestructura.Persistence;
+using Tienda.Soporte.Infraestructura.Persistence;
 using Tienda.Soporte.Domain.Model.Soporte;
 using Tienda.Soporte.Domain.Persistence.Repository;
 

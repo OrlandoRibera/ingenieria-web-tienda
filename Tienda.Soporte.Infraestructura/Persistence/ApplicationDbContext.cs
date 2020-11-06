@@ -2,7 +2,7 @@
 using Tienda.Soporte.Domain.Model.Soporte;
 using Tienda.Soporte.Infraestructura.EntityConfiguration;
 
-namespace Tienda.Distribucion.Infraestructura.Persistence
+namespace Tienda.Soporte.Infraestructura.Persistence
 {
     public class ApplicationDbContext : DbContext
     {

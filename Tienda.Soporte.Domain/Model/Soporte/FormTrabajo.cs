@@ -25,5 +25,9 @@ namespace Tienda.Soporte.Domain.Model.Soporte
             FechaForm = DateTime.Now;
             ClienteConfirma = cliente_confirma;
         }
+        public FormTrabajo()
+        {
+
+        }
     }
 }

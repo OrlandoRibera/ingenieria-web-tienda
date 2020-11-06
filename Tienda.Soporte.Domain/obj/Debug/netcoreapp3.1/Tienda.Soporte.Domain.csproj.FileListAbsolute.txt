@@ -1,7 +1,4 @@
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.exe
-C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.csprojAssemblyReference.cache
-C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.AssemblyInfoInputs.cache
-C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.AssemblyInfo.cs
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.deps.json
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.runtimeconfig.json
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.runtimeconfig.dev.json
@@ -29,6 +26,9 @@ C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Prim
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.csprojAssemblyReference.cache
+C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.AssemblyInfoInputs.cache
+C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.AssemblyInfo.cs
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.csproj.CopyComplete
 C:\Users\Orlando\Documents\Desktop\Universidad\8vo Semestre\Ingeniería Web\Primer parcial\Tienda\Tienda.Soporte.Domain\obj\Debug\netcoreapp3.1\Tienda.Soporte.Domain.dll

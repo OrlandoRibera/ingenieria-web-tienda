@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Tienda.Distribucion.Domain.Persistence;
+using Tienda.Soporte.Domain.Persistence;
 using Tienda.Soporte.Domain.Model.Soporte;
 using Tienda.Soporte.Domain.Persistence.Repository;
 using Tienda.Soporte.Web.ViewModel;
